@@ -1,5 +1,7 @@
 # RainNet
 
+A script adapted from https://github.com/hydrogo/rainnet
+
 The sample data is available at the following link
 
 https://zenodo.org/records/3629951
