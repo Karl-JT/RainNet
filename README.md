@@ -1,6 +1,6 @@
 # RainNet
 
-A script adapted from https://github.com/hydrogo/rainnet
+A test script adapted from https://github.com/hydrogo/rainnet
 
 The sample data is available at the following link
 
